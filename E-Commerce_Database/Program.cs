@@ -1070,4 +1070,5 @@ void SellerCenter()
     Console.WriteLine("5. Store Setting");
     Console.WriteLine("6. Add Category");
     Console.WriteLine("0. Exits");
+    Console.WriteLine();
 }
